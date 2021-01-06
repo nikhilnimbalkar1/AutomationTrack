@@ -1,0 +1,11 @@
+2021-01-05 11:10:33.202 [main] ERROR Logs.Log - Entering application.
+2021-01-05 11:10:33.205 [main] ERROR Logs.Log - Exiting application.
+2021-01-05 11:10:33.205 [main] INFO  Logs.Log - Hello
+2021-01-05 11:10:54.239 [main] ERROR Logs.Log - Entering application.
+2021-01-05 11:10:54.242 [main] ERROR Logs.Log - Exiting application.
+2021-01-05 11:10:54.242 [main] INFO  Logs.Log - Hello
+2021-01-05 11:19:29.502 [main] INFO  Logs.Log - Started Google.com
+2021-01-05 11:39:10.015 [main] INFO  Logs.Log - Started Google.com
+2021-01-05 11:42:38.998 [main] INFO  Logs.Log - Started Google.com
+2021-01-05 11:43:31.720 [main] INFO  Logs.Log - Started Google.com
+2021-01-05 12:09:12.872 [main] INFO  Logs.Log - Started Google.com
